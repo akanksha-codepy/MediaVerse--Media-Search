@@ -116,8 +116,9 @@ npm run dev
 
 **Akanksha Uchale**
 
-- GitHub: https://github.com/akanksha-codepy
-- Portfolio: https://akanksha-uchale-portfolio.netlify.app/
+- GitHub: https://github.com/akanksha-uchale
+- Portfolio: https://akanksha-uchale-portfolio.netlify.app
+- LinkedIn: https://www.linkedin.com/in/akanksha-uchale
 
 ---
 
